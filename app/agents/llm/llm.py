@@ -4,7 +4,7 @@ class CustomLLM:
     def __init__(self):
         self.client = OpenAI(
             base_url="http://35.253.171.20:8080/v1",
-            api_key="imiashrafnomiashrafhussaini203147415272",
+            api_key="hucdsbcdbchbdbkdfdb2",
             timeout=30.0,
         )
 
